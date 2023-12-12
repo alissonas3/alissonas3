@@ -1,12 +1,10 @@
 ## Hi, I'm Alisson
 
-<p>Full Stack Developer</p>
+<h4>Full Stack Developer</h4>
 
-## 🧑‍💻 About me
+<h2>🧑‍💻 About me</h2> 
 
-<br>
-
-<p>Technologies:</p>
+<h4>Technologies:</h4>
 
 
   <div sytle="display: inline_block">
@@ -32,7 +30,7 @@
 </div>
 
 
-<p>Contact me:</p>
+<h4>Contact me:</h4>
 <div>
   <a href="mailto:alissonas3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/alissonalvs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
