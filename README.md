@@ -1,6 +1,6 @@
 ## Hi, I'm Alisson
 
-<h4>Full Stack Developer</h4>
+<h4>Software Engineer</h4>
 
 <h2>🧑‍💻 About me</h2> 
 
