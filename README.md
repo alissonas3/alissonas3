@@ -18,17 +18,12 @@
     <img align="center" alt="Languages" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
     <img align="center" alt="Languages" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   </div>
-  
-  <br>
 
-<div style="display: flex justify-content: space-between">
-<!--   <div>
+<!-- <div style="display: flex justify-content: space-between">
+  <div>
     <img height:180em src="https://github-readme-stats.vercel.app/api?username=alissonas3&theme=tokyonight"/>
-  </div> -->
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonas3&layout=compact&theme=tokyonight)](https://github.com/alissonas3/github-readme-stats)
-</div>
-
+  </div>
+</div> -->
 
 <h4>Contact me:</h4>
 <div>
